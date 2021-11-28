@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Link a trello https://trello.com/b/bpggX8KH/proyectofinal
