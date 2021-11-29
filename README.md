@@ -1,24 +1,21 @@
-# README
+El siguiente proyecto tiene como objetivo generar la plataforma PetChat, la cual busca generar al usuario amantes de sus mascotas a una experiencia completa.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Contactarse con veterinarios en nuestro muro, ellos responderan dudas y estaran constantemente informandonos de nuevas formas de cuidar a nuestros amigos.
 
-Things you may want to cover:
+Contratar servicios diversos para el cuidado y felicidad de tu mascota.
 
-* Ruby version
+Neswletter mensual de todos los tips para los reyes de la casa.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * Link a trello https://trello.com/b/bpggX8KH/proyectofinal
+
+
+
+
+----------------
+Funciones adicionales que se podrian implementar
+
+- Veterinarias cerca del area
+- Agendar hora veterario mas cercacno
+- Marketplace para usuarios
+- 
