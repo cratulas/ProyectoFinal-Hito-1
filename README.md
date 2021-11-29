@@ -16,6 +16,5 @@ Neswletter mensual de todos los tips para los reyes de la casa.
 Funciones adicionales que se podrian implementar
 
 - Veterinarias cerca del area
-- Agendar hora veterario mas cercacno
+- Agendar hora veterario mas cercano, telemedicina y a domicilio
 - Marketplace para usuarios
-- 
